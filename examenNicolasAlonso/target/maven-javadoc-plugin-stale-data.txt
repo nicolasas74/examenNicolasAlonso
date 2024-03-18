@@ -1,0 +1,42 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'17'
+-sourcepath
+'C:/examenENDES_NicolásAlonso/examenNicolasAlonso/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/examenENDES_NicolásAlonso/examenNicolasAlonso/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'examenNicolasAlonso 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'examenNicolasAlonso 1.0-SNAPSHOT API'
+miexamen
+C:\examenENDES_NicolásAlonso\examenNicolasAlonso\src\main\java = 1710762086580
+C:\examenENDES_NicolásAlonso\examenNicolasAlonso\target\site\apidocs\allclasses-index.html = 1710763135788
+C:\examenENDES_NicolásAlonso\examenNicolasAlonso\target\site\apidocs\allpackages-index.html = 1710763135791
+C:\examenENDES_NicolásAlonso\examenNicolasAlonso\target\site\apidocs\element-list = 1710763135749
+C:\examenENDES_NicolásAlonso\examenNicolasAlonso\target\site\apidocs\help-doc.html = 1710763135815
+C:\examenENDES_NicolásAlonso\examenNicolasAlonso\target\site\apidocs\index-all.html = 1710763135806
+C:\examenENDES_NicolásAlonso\examenNicolasAlonso\target\site\apidocs\index.html = 1710763135807
+C:\examenENDES_NicolásAlonso\examenNicolasAlonso\target\site\apidocs\jquery-ui.overrides.css = 1710763135856
+C:\examenENDES_NicolásAlonso\examenNicolasAlonso\target\site\apidocs\member-search-index.js = 1710763135797
+C:\examenENDES_NicolásAlonso\examenNicolasAlonso\target\site\apidocs\module-search-index.js = 1710763135793
+C:\examenENDES_NicolásAlonso\examenNicolasAlonso\target\site\apidocs\overview-tree.html = 1710763135779
+C:\examenENDES_NicolásAlonso\examenNicolasAlonso\target\site\apidocs\package-search-index.js = 1710763135794
+C:\examenENDES_NicolásAlonso\examenNicolasAlonso\target\site\apidocs\script.js = 1710763135825
+C:\examenENDES_NicolásAlonso\examenNicolasAlonso\target\site\apidocs\search.js = 1710763135827
+C:\examenENDES_NicolásAlonso\examenNicolasAlonso\target\site\apidocs\stylesheet.css = 1710763135823
+C:\examenENDES_NicolásAlonso\examenNicolasAlonso\target\site\apidocs\tag-search-index.js = 1710763135798
+C:\examenENDES_NicolásAlonso\examenNicolasAlonso\target\site\apidocs\type-search-index.js = 1710763135795
